@@ -10,6 +10,10 @@
 <body>
 
  <title>Titulo nuevo</title>
+
+ <form action="actior">
+    <button>Guardar</button>
+ </form>
     
 </body>
 </html>
