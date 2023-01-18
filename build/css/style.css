@@ -1,0 +1,23 @@
+
+body {
+    background-color: #eaeaf4;
+  }
+  .bdy_acceso > .grid {
+    height: 100%;
+  }
+  .image {
+    margin-top: -100px;
+  }
+  .column {
+    max-width: 450px;
+  }
+
+  .formulario__input-error {
+    font-size: 12px;
+    margin-bottom: 0;
+    display: none;
+  }
+  
+  .formulario__input-error-activo {
+    display: block;
+  }
